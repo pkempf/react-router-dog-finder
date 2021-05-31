@@ -1,0 +1,8 @@
+.DogDetails > ol {
+  text-align: left;
+  display: inline-block;
+}
+
+li {
+  padding-left: 10px;
+}
